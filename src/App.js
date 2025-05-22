@@ -9,7 +9,8 @@ import Test01 from './practice/Test01';
 import Practice02 from './practice/Practice02';
 import Props01 from './study/Props01';
 import Props02 from './study/Props02';
-
+import Practice03 from './practice03/Practice03';
+import NewsBlog from './newblog/NewsBlog';
 
 function App() {
 
@@ -21,8 +22,9 @@ function App() {
 // return <Test01/>;
 // return <Practice02/>;
 // return <Props01/>;
-return <Props02/>;
-
+// return <Props02/>;
+//return <Practice03/>;
+return <NewsBlog/>;
 
 
 
