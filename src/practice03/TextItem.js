@@ -19,4 +19,4 @@ function Box(props) { // TextItem으로 사용하셨다면 function TextItem(pro
   );
 }
 
-export default TextItem; // TextItem으로 사용하셨다면 export default TextItem;
+export default Box; // TextItem으로 사용하셨다면 export default TextItem;
